@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Resource/password.png</file>
+        <file>Resource/account holder.png</file>
+        <file>Resource/account open.png</file>
+        <file>Resource/add account.png</file>
+        <file>Resource/delete account.png</file>
+        <file>Resource/maintenance.png</file>
+        <file>Resource/multiple entry.png</file>
+        <file>Resource/search account.png</file>
+        <file>Resource/single entry s.png</file>
+        <file>Resource/statement.png</file>
+        <file>Resource/Login.png</file>
+    </qresource>
+</RCC>
